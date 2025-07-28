@@ -28,3 +28,4 @@ Projeto básico com Spring Boot, Spring Data JPA, Spring Security e Oracle PL/SQ
 1. Execute a procedure no Oracle:
    ```bash
    sqlplus seu_usuario/sua_senha@XE @oracle/CREATE_USER_PROC.sql
+   ```
